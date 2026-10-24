@@ -1,2 +1,3 @@
-# .github
-Profile repository
+# Sami Puro Oy
+
+IT Consultancy
